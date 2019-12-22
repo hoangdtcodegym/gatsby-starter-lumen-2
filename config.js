@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://c1019i1.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by C1019i1',
+  subtitle: 'Hội những coder đẹp trai của CodeGym <3',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,12 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'C1019i1',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Hội những coder đẹp trai của CodeGym <3',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: 'https://www.facebook.com/groups/392154725023563/',
       telegram: '#',
       twitter: '#',
       github: '#',
