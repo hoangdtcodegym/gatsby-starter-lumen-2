@@ -1,14 +1,14 @@
 ---
 template: "post"
 title: Những câu phỏng vấn về OOP cho các Fresher.
-slug: haitran
+slug: "haitran"
 draft: false
 date: 2019-12-17T04:37:05.752Z
 description: >-
   Bạn tự hỏi khi đi phỏng vấn người ta sẽ hỏi những câu hỏi nào về lập trình
   hướng đối tượng ? Trả lời thế nào cho đúng, cho cool ngầu ? Đọc bài viết ngay
   để trang bị những kiến thức phỏng vấn cho các bạn fresher cần.
-category: OOP
+category: "OOP"
 tags:
   - ''
 ---

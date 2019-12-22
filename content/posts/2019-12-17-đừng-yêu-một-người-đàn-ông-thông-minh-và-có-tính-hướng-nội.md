@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Đừng yêu một người đàn ông thông minh và có tính hướng nội.
-slug: khunglongdideptoong2000
+slug: 'khunglongdideptoong2000'
 draft: false
 date: 2019-12-17T02:13:22.181Z
 description: Bạn có đang yêu phải một người đàn ông thông minh nhưng hướng nội ?

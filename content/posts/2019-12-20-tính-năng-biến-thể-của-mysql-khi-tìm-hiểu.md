@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: Tính năng biến thể của MySQL khi tìm hiểu
-slug: tinh-nang-bien-the-cua-mysql
+slug: 'tinh-nang-bien-the-cua-mysql'
 draft: false
 date: 2019-12-18T09:27:46.876Z
 description: >-

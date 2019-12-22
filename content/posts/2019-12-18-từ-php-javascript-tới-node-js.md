@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: 'Từ PHP, JavaScript tới Node.js (Phần 1)'
-slug: php-script-nodejs
+slug: 'php-script-nodejs'
 draft: false
 date: 2019-12-18T09:22:35.409Z
 description: >-

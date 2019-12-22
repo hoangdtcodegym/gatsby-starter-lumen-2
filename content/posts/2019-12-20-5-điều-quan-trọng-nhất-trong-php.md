@@ -1,7 +1,7 @@
 ---
 template: post
 title: 5 điều quan trọng nhất trong PHP
-slug: 5-dieu-quan-trong-nhat-trong-php
+slug: '5-dieu-quan-trong-nhat-trong-php'
 draft: false
 date: 2019-12-20T01:22:53.859Z
 description: >-

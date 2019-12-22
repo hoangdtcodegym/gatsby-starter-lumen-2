@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: So sánh giữa MySQL và MS SQL Server
-slug: so-sanh-mysql-va-ms-sql-server
+slug: 'so-sanh-mysql-va-ms-sql-server'
 draft: false
 date: 2019-12-19T08:04:20.402Z
 description: >-

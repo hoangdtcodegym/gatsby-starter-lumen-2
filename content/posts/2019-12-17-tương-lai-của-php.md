@@ -4,8 +4,7 @@ title: Tương lai của PHP.
 slug: 'php-dead-language'
 draft: false
 date: 2019-12-17T08:53:44.903Z
-description: |
-  PHP đã có những ngày tốt đẹp. Nhưng có phải nó đang chết?
+description: 'PHP đã có những ngày tốt đẹp. Nhưng có phải nó đang chết?'
 category: 'PHP, Programming language'
 tags:
   - PHP
