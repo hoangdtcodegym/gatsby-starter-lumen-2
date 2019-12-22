@@ -1,7 +1,7 @@
 ---
-template: post
+template: "post"
 title: Các framework PHP tốt nhất 2019
-slug: framework cho php tot nhat
+slug: framework-cho-php-tot-nhat
 draft: false
 date: 2019-12-20T01:30:57.737Z
 description: >

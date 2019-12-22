@@ -1,7 +1,7 @@
 ---
-template: post
+template: "post"
 title: Tương lai của PHP.
-slug: 'PHP, dead leaguage'
+slug: 'php-dead-language'
 draft: false
 date: 2019-12-17T08:53:44.903Z
 description: |

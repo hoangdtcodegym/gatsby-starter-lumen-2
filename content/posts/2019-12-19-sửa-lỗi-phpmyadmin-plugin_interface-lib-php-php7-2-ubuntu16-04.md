@@ -1,7 +1,7 @@
 ---
-template: post
+template: "post"
 title: 'Sửa lỗi Phpmyadmin [plugin_interface.lib.php] + php7.2+ ubuntu16.04'
-slug: fix_bug_phpmyadmin
+slug: fix-bug-phpmyadmin
 draft: false
 date: 2019-12-19T00:56:03.975Z
 description: hướng dẫn sửa lỗi phpmyadmin

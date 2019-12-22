@@ -1,5 +1,5 @@
 ---
-template: post
+template: "post"
 title: 'Từ PHP, JavaScript tới Node.js (Phần 1)'
 slug: php-script-nodejs
 draft: false

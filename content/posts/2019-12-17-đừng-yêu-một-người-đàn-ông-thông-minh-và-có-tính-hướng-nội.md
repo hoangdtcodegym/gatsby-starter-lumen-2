@@ -1,5 +1,5 @@
 ---
-template: post
+template: "post"
 title: Đừng yêu một người đàn ông thông minh và có tính hướng nội.
 slug: khunglongdideptoong2000
 draft: false

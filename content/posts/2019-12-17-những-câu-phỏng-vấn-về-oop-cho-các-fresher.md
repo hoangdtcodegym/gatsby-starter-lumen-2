@@ -1,5 +1,5 @@
 ---
-template: post
+template: "post"
 title: Những câu phỏng vấn về OOP cho các Fresher.
 slug: haitran
 draft: false

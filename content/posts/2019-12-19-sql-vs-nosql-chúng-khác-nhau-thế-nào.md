@@ -1,7 +1,7 @@
 ---
-template: post
+template: "post"
 title: SQL vs NoSQL.  Chúng khác nhau thế nào .
-slug: 'SQL, NoSQL '
+slug: 'sql-nosql '
 draft: false
 date: 2019-12-19T16:21:42.102Z
 description: 'Những điểm khác biệt quan trọng nhất giữa SQL và NoSQL '

@@ -1,5 +1,5 @@
 ---
-template: post
+template: "post"
 title: So sánh giữa MySQL và MS SQL Server
 slug: so-sanh-mysql-va-ms-sql-server
 draft: false
